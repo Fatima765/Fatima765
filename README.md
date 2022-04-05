@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fatme Hassan. I'm a Computer Engineering student at the Lebanese International university. I'll be graduating in 2 month.
+- 👋 Hi, I’m Fatme Hassan, a Computer Engineering student at the Lebanese International university. I'll be graduating in 2 month.
 - 👀 I’m interested in programming, in Web development and in Mobile application development.
 - 🌱 I’m currently learning python and c.
 - 💞️ I’m looking to collaborate on practical projects for new computer engineering students.
